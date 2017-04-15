@@ -23,3 +23,6 @@ int main(int argc, char const *argv[])
 
 //2**n-1 moves------
 //2**(n+1)-1 functions invocations-----------
+//time complexity---2**n
+//space complexity---n
+//NOTE:-no. of invocation is too much.to reduce it.if disc is 1 then directly move it.instead of n is greater than and equal to 1 write n greater than 1
